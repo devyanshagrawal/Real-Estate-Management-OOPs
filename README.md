@@ -14,4 +14,5 @@ A property management system has been developed which takes care of listings, ag
 <li>Id: 123</li>
 <li>Password: 123</li>
 
-Tags: #objectOrientedProgramming, #C++, #realEstateManagement
+<h2>Tags</h2>
+#objectOrientedProgramming, #C++, #realEstateManagement
