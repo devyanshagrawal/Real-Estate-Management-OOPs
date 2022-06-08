@@ -8,4 +8,10 @@ A property management system has been developed which takes care of listings, ag
 
 ![Screenshot 2022-06-08 at 9 46 59 AM](https://user-images.githubusercontent.com/91361896/172530488-04b6511d-bd15-4e0d-93f3-cabadeaa0e56.png)
 
+
+<h2>Running Code</h2>
+<li>Run the code</li>
+<li>Id: 123</li>
+<li>Password: 123</li>
+
 Tags: #objectOrientedProgramming, #C++, #realEstateManagement
